@@ -1,0 +1,15 @@
+{
+    "BOT_SETTINGS": {
+        "TOKEN": "[[token]]",
+
+        "PREFIX": [[prefix]],
+
+        "DEFAULT_SETTINGS": {
+            "WelcomeChannel": "1234567890",
+            "WelcomeMessage": "Howdy Partner 🤠",
+            "WelcomeEnabled": true,
+            "ModRole": "Mod",
+            "AdminRole": "Admin"
+        }
+    }
+}
